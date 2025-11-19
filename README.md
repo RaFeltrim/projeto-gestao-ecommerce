@@ -6,7 +6,17 @@
 
 ## 📋 Sobre o Projeto
 
-MVP de e-commerce completo para venda de bebês Reborn desenvolvido como projeto acadêmico da disciplina de Gestão de Projetos. O sistema permite visualizar catálogo, ver detalhes, realizar compras e confirmar pedidos.
+MVP de e-commerce para venda de bebês Reborn desenvolvido como projeto acadêmico da disciplina de Gestão de Projetos.
+
+**Sprint 1:** Implementação da base do sistema com backend Express, API REST e frontend responsivo para exibição do catálogo de produtos.
+MVP de e-commerce para venda de bebês Reborn desenvolvido como projeto acadêmico da disciplina de Gestão de Projetos.
+
+**Sprint 1:** Implementação da base do sistema com backend Express, API REST e frontend responsivo para exibição do catálogo de produtos.
+=======
+MVP de e-commerce para venda de bebês Reborn desenvolvido como projeto acadêmico da disciplina de Gestão de Projetos.
+
+**Sprint 1:** Implementação da base do sistema com backend Express, API REST e frontend responsivo para exibição do catálogo de produtos.
+>>>>>>> sprint-1
 
 **Equipe de Desenvolvimento:**
 - Rafael Feltrim - Backend e Infraestrutura
@@ -119,10 +129,16 @@ projeto-gestao-ecommerce/
 - ✅ Persistência de pedidos (orders.json)
 
 **Métricas:**
-- 44 Story Points concluídos (100%)
-- ~2.500 linhas de código
+- 11 Story Points concluídos (100%)
+- ~700 linhas de código
 - 0 defeitos críticos
 - Performance excepcional (API < 2ms)
+
+### 📌 Próximas Sprints
+
+**Sprint 2:** Página de detalhes e checkout  
+**Sprint 3:** Lógica de pedidos e confirmação  
+**Sprint 4:** Testes e documentação final
 
 ---
 
