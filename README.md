@@ -46,7 +46,7 @@ npm install
 ### Executando a Aplicação
 
 Inicie o servidor:
-```bash
+``bash
 npm start
 ```
 
@@ -139,10 +139,23 @@ projeto-gestao-ecommerce/
 - 0 defeitos críticos
 - Performance excepcional (API < 2ms)
 
-**Métricas Sprint 1:**
-- 11 Story Points concluídos
-- 120 linhas de código
-- 12 horas de desenvolvimento
+### ✅ Sprint 2 (12/11 - 18/11/2025) - CONCLUÍDA
+
+**Frontend:**
+- ✅ Página de detalhes do produto (produto.html)
+- ✅ Galeria de imagens do produto
+- ✅ Informações detalhadas (descrição, características)
+- ✅ Botão "Comprar Agora" funcional
+- ✅ Formulário de checkout completo (checkout.html)
+- ✅ Validações de formulário (email, telefone, CEP)
+- ✅ Máscaras automáticas nos inputs
+- ✅ Navegação entre páginas com query params
+- ✅ Resumo do pedido dinâmico
+
+**Métricas Sprint 2:**
+- 10 Story Points concluídos
+- 180 linhas de código
+- 3 novas páginas (produto, checkout)
 - 0 defeitos críticos
 
 ### 📌 Próximas Sprints
@@ -264,14 +277,14 @@ curl http://localhost:3000/api/products/prod-001
 
 ## 📊 Métricas (Sprint 1)
 
-| Métrica | Valor |
-|---------|-------|
-| Story Points | 11/11 (100%) |
-| Linhas de Código | 120 |
-| Horas | 12h |
-| Produtividade | 10 linhas/hora |
-| Defeitos | 0 |
-| Testes | 5/5 passando |
+| Métrica | Sprint 1 | Sprint 2 | Total |
+|---------|----------|----------|-------|
+| Story Points | 11 | 10 | 21 |
+| Linhas de Código | 120 | 180 | 300 |
+| Horas | 12h | 15h | 27h |
+| Produtividade | 10 linhas/hora | 12 linhas/hora | 11.1 linhas/hora |
+| Defeitos | 0 | 0 | 0 |
+| Testes | 5/5 passando | 7/7 passando | 12/12 passando |
 
 ---
 
