@@ -1,10 +1,6 @@
 # 🍼 Loja de Bebês Reborn - E-commerce MVP
 
-<<<<<<< HEAD
 ![Status](https://img.shields.io/badge/Status-Completo-success)
-=======
-![Status](https://img.shields.io/badge/Status-Sprint%202%20Concluída-success)
->>>>>>> sprint-2
 ![Node](https://img.shields.io/badge/Node.js-18+-green)
 ![Express](https://img.shields.io/badge/Express-4.x-blue)
 
@@ -12,19 +8,9 @@
 
 MVP de e-commerce para venda de bebês Reborn desenvolvido como projeto acadêmico da disciplina de Gestão de Projetos.
 
-<<<<<<< HEAD
 **Sprint 1:** Implementação da base do sistema com backend Express, API REST e frontend responsivo para exibição do catálogo de produtos.
-MVP de e-commerce para venda de bebês Reborn desenvolvido como projeto acadêmico da disciplina de Gestão de Projetos.
 
-**Sprint 1:** Implementação da base do sistema com backend Express, API REST e frontend responsivo para exibição do catálogo de produtos.
-=======
-MVP de e-commerce para venda de bebês Reborn desenvolvido como projeto acadêmico da disciplina de Gestão de Projetos.
-
-**Sprint 1:** Implementação da base do sistema com backend Express, API REST e frontend responsivo para exibição do catálogo de produtos.
->>>>>>> sprint-1
-=======
 **Sprint 2:** Implementação da página de detalhes do produto e formulário de checkout completo com validações e máscaras automáticas.
->>>>>>> sprint-2
 
 **Equipe de Desenvolvimento:**
 - Rafael Feltrim - Backend e Infraestrutura
@@ -60,7 +46,7 @@ npm install
 ### Executando a Aplicação
 
 Inicie o servidor:
-```bash
+``bash
 npm start
 ```
 
@@ -104,6 +90,11 @@ projeto-gestao-ecommerce/
 │       ├── app.js             # Lógica da página principal
 │       ├── produto.js         # Lógica de detalhes (NOVO)
 │       └── checkout.js        # Lógica do checkout (NOVO)
+├── scripts/
+│   ├── merge-sprints.bat      # Script para Windows
+│   ├── merge-sprints.ps1      # Script PowerShell
+│   ├── merge-sprints.sh       # Script Bash
+│   └── README.md              # Documentação dos scripts
 ├── src/
 │   ├── server.js              # Servidor Express
 │   └── routes/
@@ -163,7 +154,7 @@ projeto-gestao-ecommerce/
 
 **Métricas Sprint 2:**
 - 10 Story Points concluídos
-- +1.100 linhas de código
+- 180 linhas de código
 - 3 novas páginas (produto, checkout)
 - 0 defeitos críticos
 
